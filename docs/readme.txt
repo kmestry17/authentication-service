@@ -1,2 +1,0 @@
-sendgrid recovery code
-D6DHYAPKG9HEGNK1F34C5QEB
